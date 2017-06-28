@@ -16,8 +16,9 @@ Most of us regularly work with Jupyter notebooks, but fail to see obvious produc
 
 ## Helpful links
 
-1. (docker-stacks)[https://github.com/jupyter/docker-stacks]
-2. (Best Practices for Jupyter Notebooks)[https://svds.com/jupyter-notebook-best-practices-for-data-science/]
-3. (Jupyter Con)[]
-4. (IPython and Jupyter in Depth)[https://github.com/ipython/ipython-in-depth]
-5. (Jupyter docker stacks)[https://github.com/jupyter/docker-stacks]
+1. [[docker-stacks]](https://github.com/jupyter/docker-stacks)
+2. [[Best Practices for Jupyter Notebooks]](https://svds.com/jupyter-notebook-best-practices-for-data-science/)
+3. [[Jupytercon]](https://conferences.oreilly.com/jupyter/jup-ny)
+4. [[IPython and Jupyter in Depth]](https://github.com/ipython/ipython-in-depth)
+5. [[Jupyter docker stacks]](https://github.com/jupyter/docker-stacks)
+6. [[Slides from Jupyter]](https://github.com/damianavila/RISE)
