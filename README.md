@@ -53,15 +53,25 @@ The UI of Jupyter is web-based. In the entry tab you are able to traverse to the
 
 The notebook view works like a modal editor such as vim. The notebook consists out of a sequence of cells that can be of several types, most often you encounter code cells that contain runnable code and markdown cells that can be typeset into integrated html on-the-fly.
 
-You can go into edit mode by typing <kbd>ENTER</kbd> and leave back to the cell selection mode by pressing <kbd>ESC</kbd>. Colors indicate in which mode you are at.
+You can go into edit mode by typing <kbd>ENTER</kbd> and leave back to the command mode by pressing <kbd>ESC</kbd>. Colors indicate in which mode you are at. The shortcuts for your system can be listed under `Help > Keyboard Shortcuts`.
 
+[Command Mode]: ./images/command_mode.png
+
+[Edit Mode]: ./images/edit_mode.png
 
 #### Themes
 
 Of course there are also themes. Try `pip install jupyterthemes`. The program `jt` is used to switch themes, try `jt -t chesterish`. Restarting the session if it does not work. Reset with `jt -r`. There are plenty of more options
+
 #### Exporting of notebooks
-### Setting different kernels
+
+Under `File > Download as` several options can be found to export the notebook from. For some reason, there are no shortcuts to do this. For `pdf` export, `pandoc` is required.
+
+#### Setting different kernels
+
 ### Improve Visualization quality by pre-made settings
+
+See 
 ### Modding the UI
 ### Profiling && Debugging
 ### Extensions
