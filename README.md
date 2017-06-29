@@ -55,7 +55,7 @@ The notebook view works like a modal editor such as vim. The notebook consists o
 
 You can go into edit mode by typing <kbd>ENTER</kbd> and leave back to the command mode by pressing <kbd>ESC</kbd>. Colors indicate in which mode you are at. The shortcuts for your system can be listed under `Help > Keyboard Shortcuts`.
 
-Most helpful is <kbd>CMD + SHIFT + p</kbd> (<kbd>CTRL + SHIFT + p</kbd> in Linux).
+Most helpful is <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>p</kbd> (<kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>p</kbd> in Linux).
 
 [Command Mode]: ./images/command_mode.png
 
@@ -69,18 +69,15 @@ Of course there are also themes. Try `pip install jupyterthemes`. The program `j
 
 Under `File > Download as` several options can be found to export the notebook from. For some reason, there are no shortcuts to do this. For `pdf` export, `pandoc` is required.
 
-#### Setting different kernels
-
 ### Improve Visualization quality by pre-made settings
 
 See the snippets.
 
-### Modding the UI
 ### Profiling && Debugging
 ### Extensions
 ### Some words regarding the work flow in industrial applications
 
-
+See the slides.
 ## Helpful links / Sources
 
 1. [docker-stacks](https://github.com/jupyter/docker-stacks)
