@@ -55,6 +55,8 @@ The notebook view works like a modal editor such as vim. The notebook consists o
 
 You can go into edit mode by typing <kbd>ENTER</kbd> and leave back to the command mode by pressing <kbd>ESC</kbd>. Colors indicate in which mode you are at. The shortcuts for your system can be listed under `Help > Keyboard Shortcuts`.
 
+Most helpful is <kbd>CMD + SHIFT + p</kbd> (<kbd>CTRL + SHIFT + p</kbd> in Linux).
+
 [Command Mode]: ./images/command_mode.png
 
 [Edit Mode]: ./images/edit_mode.png
@@ -71,7 +73,8 @@ Under `File > Download as` several options can be found to export the notebook f
 
 ### Improve Visualization quality by pre-made settings
 
-See 
+See the snippets.
+
 ### Modding the UI
 ### Profiling && Debugging
 ### Extensions
