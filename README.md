@@ -76,6 +76,22 @@ To create a `reveal.js` slide presentation, see RISE (7.).
 See the snippets.
 
 ### Profiling & Debugging
+
+See notebook on this topic. In a nutshell you can debug with the notebook magic `%pdb` and `%debug`, the former debugs the cell it is in, the other debugs the last stack trace.
+
+### Other Kernels
+
+There are several other kernels that you can install. For instance with
+
+```
+conda install -c r r-essentials
+```
+
+Installs the R kernel. There are many other kernels that you can find.
+
+There is a little well-known trick to use R and Python in the same notebook (as in transfering state), see trick 21 in source (10.).
+
+
 ### Extensions
 
 Do install the extensions to the Jupyter notebook use the command `conda install -c conda-forge jupyter_contrib_nbextensions`. [Here](http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html) is information regarding the provided extensions.
