@@ -18,7 +18,7 @@ Notebooks are an important tool for data science as they allow for:
 
 ### Jupyter project / Setup
 
-If you have Anaconda then Jupyter should already be installed, if not you can do by installing it via `pip install jupyter`. The command `jupyter --version` gives you the version of Jupyter you are running, this tutorial was tested with version `4.3.0`, a ``jupyter notebook --version` of `5.0.0`.
+If you have Anaconda then Jupyter should already be installed, if not you can do by installing it via `pip install jupyter`. The command `jupyter --version` gives you the version of Jupyter you are running, this tutorial was tested with version `4.3.0`, a `jupyter notebook --version` of `5.0.0`.
 
 The config directory of Jupyter can be found under `~/.jupyter` and changed via the environment_variable `JUPYTER_CONFIG_DIR`. If you do not want to touch your installation, you can change to a different anaconda environment:
 
@@ -80,7 +80,7 @@ See the snippets.
 
 Do install the extensions to the Jupyter notebook use the command `conda install -c conda-forge jupyter_contrib_nbextensions`. [Here](http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html) is information regarding the provided extensions.
 
-Once you restart the Jupyter notebook server you will find a exten
+Once you restart the Jupyter notebook server you will find a extensions view on the notebooks starting page. Here you can select single extensions and read their documentations. It is recommended to turn off the version requirement. Note that, however, some of the pre-`5.0` extensions are obsolete.
 
 
 ### Some words regarding the work flow in industrial applications
