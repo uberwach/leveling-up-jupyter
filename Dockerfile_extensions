@@ -1,0 +1,11 @@
+FROM jupyter/datascience-notebook
+
+
+RUN pip install --user --upgrade pip && \
+    pip install --user --upgrade notebook jupyterthemes
+
+RUN conda install --yes -c conda-forge jupyter_contrib_nbextensions
+
+# activate extensions
+
+RUN jupyter nbextension enable codefolding/main

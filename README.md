@@ -57,9 +57,9 @@ You can go into edit mode by typing <kbd>ENTER</kbd> and leave back to the comma
 
 Most helpful is <kbd>CMD</kbd> + <kbd>SHIFT</kbd> + <kbd>p</kbd> (<kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>p</kbd> in Linux).
 
-[Command Mode]: ./images/command_mode.png
+![Command Mode](images/command_mode.png)
 
-[Edit Mode]: ./images/edit_mode.png
+![Edit Mode](/images/edit_mode.png)
 
 #### Themes
 
@@ -69,12 +69,20 @@ Of course there are also themes. Try `pip install jupyterthemes`. The program `j
 
 Under `File > Download as` several options can be found to export the notebook from. For some reason, there are no shortcuts to do this. For `pdf` export, `pandoc` is required.
 
+To create a `reveal.js` slide presentation, see RISE (7.).
+
 ### Improve Visualization quality by pre-made settings
 
 See the snippets.
 
-### Profiling && Debugging
+### Profiling & Debugging
 ### Extensions
+
+Do install the extensions to the Jupyter notebook use the command `conda install -c conda-forge jupyter_contrib_nbextensions`. [Here](http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html) is information regarding the provided extensions.
+
+Once you restart the Jupyter notebook server you will find a exten
+
+
 ### Some words regarding the work flow in industrial applications
 
 See the slides.
