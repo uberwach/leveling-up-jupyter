@@ -102,6 +102,7 @@ Once you restart the Jupyter notebook server you will find a extensions view on 
 ### Some words regarding the work flow in industrial applications
 
 See the slides.
+
 ## Helpful links / Sources
 
 1. [docker-stacks](https://github.com/jupyter/docker-stacks)
@@ -114,3 +115,4 @@ See the slides.
 8. [Data Science is Software (SciPy 2016 Tutorial)](http://isaacslavitt.com/2016/07/20/data-science-is-software-talk/)
 9. [Jupyter Themes](https://github.com/dunovank/jupyter-themes)
 10. [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+11. [More about Profiling](http://pynash.org/2013/03/06/timing-and-profiling/)
