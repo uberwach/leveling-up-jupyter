@@ -103,6 +103,10 @@ Once you restart the Jupyter notebook server you will find a extensions view on 
 
 See the slides.
 
+### Installing Packages within Jupyter
+
+If you happen to miss a package and want to reinstall it later the classical approach is to use a code cell with `!pip install package_name`. However, this can cause problem as you can see in Source 12.
+
 ## Helpful links / Sources
 
 1. [docker-stacks](https://github.com/jupyter/docker-stacks)
@@ -116,3 +120,4 @@ See the slides.
 9. [Jupyter Themes](https://github.com/dunovank/jupyter-themes)
 10. [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 11. [More about Profiling](http://pynash.org/2013/03/06/timing-and-profiling/)
+12. [Correctly install Python Packages from Jupyter](http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html)
